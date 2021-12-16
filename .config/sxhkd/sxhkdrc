@@ -1,0 +1,10 @@
+super + Return
+	xfce4-terminal
+super + q
+	wormc close-active-client
+super + {1-9}
+	wormc switch-tag {1-9}
+super + shift + {1-9}
+	wormc move-active-tag {1-9}
+super + r
+	rofi -show combi

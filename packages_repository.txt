@@ -1,0 +1,5 @@
+rofi
+worm
+thunar
+arc-gtk-theme
+ttf-jetbrains-mono
