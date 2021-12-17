@@ -3,3 +3,4 @@ worm
 thunar
 arc-gtk-theme
 ttf-jetbrains-mono
+nerd-fonts-symbols
