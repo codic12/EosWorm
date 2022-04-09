@@ -10,7 +10,7 @@ wormc close-path ~/.config/worm/buttons/close.png
 wormc maximize-path ~/.config/worm/buttons/maximize.png
 wormc button-size 15
 wormc border-width 2
-wormc struts 42 10 10 10
+wormc struts 10 40 10 10
 wormc gaps 10
 wormc layout floating
 feh --bg-scale /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png 
